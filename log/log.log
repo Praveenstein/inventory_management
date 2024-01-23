@@ -1,0 +1,5 @@
+2024-01-20 23:59:49,116 -INFO - app.util.initializer- initializer.py - configure_logging - Configured Logging
+2024-01-21 00:00:29,292 -INFO - app.util.initializer- initializer.py - configure_logging - Configured Logging
+2024-01-22 18:37:49,006 -ERROR - __main__- main.py - main - An error occurred: In order to use PonyORM with PostgreSQL please install psycopg2 or psycopg2cffi
+2024-01-22 19:35:49,868 -ERROR - app.util.initializer- initializer.py - initialize_app - Error While Initializing the Application: 
+ 'Database' object has no attribute 'generate_pony_mapping'
